@@ -3,7 +3,7 @@ import 'package:introui_task/pages/home_page.dart';
 import 'package:introui_task/pages/utils/Strings.dart';
 
 class IntroPage extends StatefulWidget {
-  static const String id = "IntroPage";
+  static const String id = "intropage";
 
   const IntroPage({Key? key}) : super(key: key);
 
