@@ -81,7 +81,7 @@ class _IntroPageState extends State<IntroPage> {
                           Navigator.pushReplacementNamed(context, HomePage.id);
                         },
                         child: const Text(
-                          "Skip",
+                          "skip",
                           style: TextStyle(
                             color: Colors.redAccent,
                             fontWeight: FontWeight.bold,
